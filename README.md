@@ -22,3 +22,5 @@
 ## Диаграммалар
 ### 3. Activity: Тауарды сату (жарамдылық мерзімі бойынша баға есептеу)
 ![Activity](docs/diagrams/03-activity.png)
+### 4. Sequence: Тауарды сату (жарамдылық мерзімі бойынша баға есептеу)
+![Sequence](docs/diagrams/04-sequence.png)
